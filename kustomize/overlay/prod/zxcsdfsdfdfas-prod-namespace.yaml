@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: zxcsdfsdfdfas-prod
+  labels:
+    environment-id: env_66e2e6bb-0471-437e-b902-ba380cedbc86
+    project-id: project_f07c5bac-d805-4121-b8ec-e6769add3026
+    project-name: zxcsdfsdfdfas
+    environment-name: prod
+    organization-id: org_9aad87d0-abbc-48f9-9038-002316f0475a
